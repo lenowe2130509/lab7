@@ -1,0 +1,8 @@
+C:\Users\2130509\Documents\Code\Prog2\lab 7\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\2130509\Documents\Code\Prog2\lab 7\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\2130509\Documents\Code\Prog2\lab 7\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\2130509\Documents\Code\Prog2\lab 7\Chat\Chat\obj\Debug\AmitieNameSpace.csproj.AssemblyReference.cache
+C:\Users\2130509\Documents\Code\Prog2\lab 7\Chat\Chat\obj\Debug\AmitieNameSpace.csproj.SuggestedBindingRedirects.cache
+C:\Users\2130509\Documents\Code\Prog2\lab 7\Chat\Chat\obj\Debug\AmitieNameSpace.csproj.CoreCompileInputs.cache
+C:\Users\2130509\Documents\Code\Prog2\lab 7\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\2130509\Documents\Code\Prog2\lab 7\Chat\Chat\obj\Debug\Chat.pdb

@@ -1,0 +1,8 @@
+C:\Users\2130509\Documents\Code\Prog2\lab 7\Construction\Construction\bin\Debug\Construction.exe.config
+C:\Users\2130509\Documents\Code\Prog2\lab 7\Construction\Construction\bin\Debug\Construction.exe
+C:\Users\2130509\Documents\Code\Prog2\lab 7\Construction\Construction\bin\Debug\Construction.pdb
+C:\Users\2130509\Documents\Code\Prog2\lab 7\Construction\Construction\obj\Debug\Construction.csproj.AssemblyReference.cache
+C:\Users\2130509\Documents\Code\Prog2\lab 7\Construction\Construction\obj\Debug\Construction.csproj.SuggestedBindingRedirects.cache
+C:\Users\2130509\Documents\Code\Prog2\lab 7\Construction\Construction\obj\Debug\Construction.csproj.CoreCompileInputs.cache
+C:\Users\2130509\Documents\Code\Prog2\lab 7\Construction\Construction\obj\Debug\Construction.exe
+C:\Users\2130509\Documents\Code\Prog2\lab 7\Construction\Construction\obj\Debug\Construction.pdb
